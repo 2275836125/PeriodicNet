@@ -11,7 +11,7 @@ MicroGradient was fitted to the microbiome changes by the gradient descent algor
 ### Download
 Download MicroGradient using git:
 ```shell
-git clone 
+git clone https://github.com/2275836125/MicroGradient.git
 ```
 
 ## Usage
