@@ -2,7 +2,7 @@
 
 PeriodicNet, A Gradient Descent Based Model for Predicting Periodic Time Series
 ## Introduction
-In either fecal micoribal treansplantation (FMT) for human, or multiple microbiome engraftment in fermentaion process, or other complex microbial community manipulation, we will encounter a context in which a "designed" microbial community is injected into a natual microbial community, and could lead to a change of the original microbial community, usually for the good of the host. Please formally define this process and model, and name this process as microbiome engraftment(ME).
+In either fecal micoribal treansplantation (FMT) for human, or multiple microbiome engraftment in fermentaion process, or other complex microbial community manipulation, we will encounter a context in which a "designed" microbial community is injected into a natual microbial community, and could lead to a change of the original microbial community, usually for the good of the host. Please formally define this process and model, and name this process as microbiome engraftment(ME).<br/>
 We developed "PeriodicNet," a novel model for analyzing cyclical time series data from the ME process, using findings from  <a href="https://github.com/HUST-NingKang-Lab/Moutai-SME" title="超链接title">Moutai SME project</a>. PeriodicNet confirms the periodic nature of ME-induced effects and effectively captures their underlying patterns.
 
 ## Explanation
