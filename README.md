@@ -43,9 +43,9 @@ git clone https://github.com/2275836125/MicroGradient.git
 1. **Initialize Parameters**: Initialize the parameters randomly or with some sensible initial values.
 
 2. **Gradient Descent**: Update the parameters iteratively to minimize the objective function. Compute the gradients of the loss function with respect to each parameter and update the parameters accordingly. The update rule for each parameter can be formulated as follows:
-
-   $$ \theta_{\text{new}} = \theta_{\text{old}} - \alpha \frac{\partial \text{MSE}}{\partial \theta_{\text{old}}} $$
-
+```math
+ \theta_{\text{new}} = \theta_{\text{old}} - \alpha \frac{\partial \text{MSE}}{\partial \theta_{\text{old}}} $$
+```
    Where $( \theta )$ represents any of the parameters (amplitude, angular frequency, phase shift, or bias), and $( \alpha )$ is the learning rate.
 
 3. **Repeat**: Repeat the gradient descent process until convergence (i.e., until the change in the loss function becomes negligible or after a fixed number of iterations).
