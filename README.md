@@ -2,12 +2,8 @@
 
 PeriodicNet, A Gradient Descent Based Model for Predicting Periodic Time Series
 ## Introduction
-
-Periodic time series data, characterized by recurring patterns over time, poses a unique challenge for traditional forecasting models. Addressing this challenge, we present "PeriodicNet," a novel model designed specifically to predict periodic time series data through the application of gradient descent optimization.
-
-## Motivation
-
-Periodic time series data is ubiquitous across numerous domains, including finance, climate science, and signal processing. Traditional forecasting methods often struggle to capture the nuanced periodic patterns present in such data. Inspired by the need for accurate and efficient periodic time series prediction, PeriodicNet aims to leverage the power of gradient descent optimization to effectively model and predict periodic trends.
+In either fecal micoribal treansplantation (FMT) for human, or multiple microbiome engraftment in fermentaion process, or other complex microbial community manipulation, we will encounter a context in which a "designed" microbial community is injected into a natual microbial community, and could lead to a change of the original microbial community, usually for the good of the host. Please formally define this process and model, and name this process as microbiome engraftment(ME).
+We developed "PeriodicNet," a novel model for analyzing cyclical time series data from the ME process, using findings from  <a href="https://github.com/HUST-NingKang-Lab/Moutai-SME" title="超链接title">Moutai SME project</a>. PeriodicNet confirms the periodic nature of ME-induced effects and effectively captures their underlying patterns.
 
 ## Explanation
 <div style="text-align: center;">
