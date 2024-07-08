@@ -19,7 +19,7 @@ Download MicroGradient using git:
 git clone https://github.com/2275836125/PeriodicNet.git
 ```
 ## Usage
-Example: Fit a sinusoidal model to the time series data of microbiome represented by Bray-Curtis (BC) distances.
+Fit a sinusoidal model to the time series data of microbiome represented by Bray-Curtis (BC) distances.
 1. **Data Preparation:** Organize microbiome data into a matrix format where rows represent microbial species and columns represent days. Denote this matrix as $M$, where $M_{ij}$ represents the abundance of microbial species $i$ on day $j$.
 
 2. **Calculate Bray-Curtis Dissimilarity:**
