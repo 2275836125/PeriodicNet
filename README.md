@@ -25,9 +25,9 @@ Example: Fit a sinusoidal model to the time series data of microbiome represente
 2. **Calculate Bray-Curtis Dissimilarity:**
 
    The Bray-Curtis Dissimilarity between two microbiome (i.e., two different days in your case) is calculated using the formula:
-```math
-   \text{Bray-Curtis} = \frac{\sum_i |X_i - Y_i|}{\sum_i (X_i + Y_i)} \
-```
+   
+   $$\text{Bray-Curtis} = \frac{\sum_i |X_i - Y_i|}{\sum_i (X_i + Y_i)} \$$
+   
    Where:
    - $X_i$ is the abundance of microbial species $i$ in sample 1.
    - $Y_i$ is the abundance of microbial species $i$ in sample 2.
