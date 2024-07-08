@@ -53,14 +53,3 @@ Example: Fit a sinusoidal model to the time series data of microbiome represente
 ```math
  \theta_{\text{new}} = \theta_{\text{old}} - \alpha \frac{\partial \text{MSE}}{\partial \theta_{\text{old}}} 
 ```
-   Where $\theta$ represents any of the parameters (amplitude, angular frequency, phase shift, or bias), and $\alpha$ is the learning rate.
-
-1. **Prediction**: Once the parameters are optimized, use the model to predict future values of the time series.
-
-2. **Evaluate Model Performance**: Evaluate the model's performance using metrics like Mean Absolute Error (MAE), Root Mean Squared Error (RMSE), or other relevant metrics on a validation dataset.
-
-3. **Fine-tuning**: If necessary, fine-tune hyperparameters such as learning rate, model architecture, or regularization strength to improve performance.
-
-4. **Evaluate Model Performance**: Evaluate the model's performance using metrics like Mean Absolute Error (MAE), Root Mean Squared Error (RMSE), or other relevant metrics on a validation dataset.
-
-5. **Fine-tuning**: If necessary, fine-tune hyperparameters such as learning rate, model architecture, or regularization strength to improve performance.
